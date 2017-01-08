@@ -1,0 +1,11 @@
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\Category.BLL.dll
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\Category.BLL.pdb
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\Category.DAL.dll
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\Category.Model.dll
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\EntityFramework.dll
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\Category.DAL.pdb
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\Category.Model.pdb
+C:\.Net learning\Categrories\Category.BLL\bin\Debug\EntityFramework.xml
+C:\.Net learning\Categrories\Category.BLL\obj\Debug\Category.BLL.csprojResolveAssemblyReference.cache
+C:\.Net learning\Categrories\Category.BLL\obj\Debug\Category.BLL.dll
+C:\.Net learning\Categrories\Category.BLL\obj\Debug\Category.BLL.pdb

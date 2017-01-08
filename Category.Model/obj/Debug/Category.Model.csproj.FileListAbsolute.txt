@@ -1,0 +1,7 @@
+C:\.Net learning\Categrories\Category.Model\bin\Debug\Category.Model.dll.config
+C:\.Net learning\Categrories\Category.Model\bin\Debug\Category.Model.dll
+C:\.Net learning\Categrories\Category.Model\bin\Debug\Category.Model.pdb
+C:\.Net learning\Categrories\Category.Model\bin\Debug\EntityFramework.dll
+C:\.Net learning\Categrories\Category.Model\bin\Debug\EntityFramework.xml
+C:\.Net learning\Categrories\Category.Model\obj\Debug\Category.Model.dll
+C:\.Net learning\Categrories\Category.Model\obj\Debug\Category.Model.pdb
